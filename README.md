@@ -18,24 +18,30 @@ NETWORK & INFRASTRUCTURE MANAGER
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peyman123)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube)](https://www.youtube.com/c/peimansattari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://ir.linkedin.com/in/peimansattari)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat&logo=instagram)](https://www.instagram.com/peimansattari/)
+
+
+<!--
+[![YouTube](https://img.shields.io/badge/-red?style=flat&logo=youtube)](https://www.youtube.com/c/username)
+[![Instagram](https://img.shields.io/badge/-pink?style=flat&logo=instagram)](https://www.instagram.com/username/)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/username/)
+-->
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peyman123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeimanSattari&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peyman123&theme=radical)
 
----
 
-## 📌 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peyman123&layout=compact&theme=radical)](https://github.com/peyman123/github-readme-stats)
-
----
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=peyman123&theme=darkhub)
+
+[![](https://visitcount.itsvg.in/api?id=PeimanSattari&label=Profile%20Views&color=8&icon=1&pretty=true)](https://visitcount.itsvg.in)
