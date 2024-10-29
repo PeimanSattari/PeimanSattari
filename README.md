@@ -1,11 +1,20 @@
-# Hello, I'm Peiman 👋
+# About Me:
+Hello World! 🌎
+<br>
+I'm Peiman, a passionate Netwok & Infrastructure Developer with a mind full of code 💻.
+<br>
+When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, Network Solutions, Security and Cloud technology📊.
+<br>Work hard, help harder 💪.<br>
+I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
 
+On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
+Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
+
+Let's code, and change the world! 💻💡
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+MICROSOFT
+SQL TUNER
+NETWORK & INFRASTRUCTURE MANAGER
 ---
 
 ## 🌐 Socials
