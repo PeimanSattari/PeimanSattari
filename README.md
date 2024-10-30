@@ -14,21 +14,6 @@ Let's code, and change the world! 💻💡
 
 
 [![](https://visitcount.itsvg.in/api?id=PeimanSattari&label=Profile%20Views&color=8&icon=1&pretty=true)](https://visitcount.itsvg.in)
-## 🛠 Tech Stack
-
-
-SQL Server developer 
-
-
-Network & Infrastucture:
-Server Virtualization (ESXi , ...)
-Switching & Routing 
-DHCP DNS AD , ...
-Backup Technology
-Server Storage Tape & ...
-Security & Firewall
-
-
 
 ---
 ## Languages and Tools
@@ -62,14 +47,19 @@ Security & Firewall
 -->
 
 ---
+## 🛠 Tech Stack
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeimanSattari&show_icons=true&theme=radical)
+
+SQL Server developer 
+
+
+Network & Infrastucture:
+Server Virtualization (ESXi , ...)
+Switching & Routing 
+DHCP DNS AD , ...
+Backup Technology
+Server Storage Tape & ...
+Security & Firewall
+
 
 ---
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peyman123&theme=radical)
-
-
-
