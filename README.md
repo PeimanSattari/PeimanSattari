@@ -11,11 +11,28 @@ On this GitHub profile, you'll find a collection of my projects, experiments, an
 Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
 
 Let's code, and change the world! 💻💡
+
+
+[![](https://visitcount.itsvg.in/api?id=PeimanSattari&label=Profile%20Views&color=8&icon=1&pretty=true)](https://visitcount.itsvg.in)
 ## 🛠 Tech Stack
-MICROSOFT
-SQL TUNER
-NETWORK & INFRASTRUCTURE MANAGER
+
+
+SQL Server developer 
+
+
+Network & Infrastucture:
+Server Virtualization (ESXi , ...)
+Switching & Routing 
+DHCP DNS AD , ...
+Backup Technology
+Server Storage Tape & ...
+Security & Firewall
+
+
+
 ---
+
+
 
 ## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube)](https://www.youtube.com/c/peimansattari)
@@ -41,7 +58,3 @@ NETWORK & INFRASTRUCTURE MANAGER
 
 
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=peyman123&theme=darkhub)
-
-[![](https://visitcount.itsvg.in/api?id=PeimanSattari&label=Profile%20Views&color=8&icon=1&pretty=true)](https://visitcount.itsvg.in)
