@@ -34,93 +34,19 @@ Security & Firewall
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/chartdotjs.svg" alt="Chart.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redux.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webpack.svg" alt="Webpack" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" alt="Postman" width="40" height="40"/>
-</p>
-
-## Tools and Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vmware.svg" alt="VMware" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/esxi.svg" alt="ESXi" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vmware.svg" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cisco.svg" alt="Cisco" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/veeam.svg" alt="Veeam" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg" alt="Windows Server" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg" alt="Windows Server" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fortinet.svg" alt="Fortinet" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pfsense.svg" alt="pfSense" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-</p>
 
-
-
-## Tools and Technologies
-
-<p align="left">
-  <img src="https://www.svgrepo.com/show/331370/vmware.svg" alt="VMware" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/306922/esxi.svg" alt="ESXi" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/373661/cisco.svg" alt="Cisco" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354262/veeam.svg" alt="Veeam" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/184143/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303372/microsoft-windows.svg" alt="Windows Server" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303647/fortinet.svg" alt="Fortinet" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/331381/pfsense.svg" alt="pfSense" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/349537/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-</p>
-
-
-
-## Tools and Technologies
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/VMware_logo.svg" alt="VMware" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/VMware_vSphere_Logo.svg" alt="ESXi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cisco_logo_blue_2016.svg" alt="Cisco" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Veeam_logo.svg" alt="Veeam" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" alt="Windows Server" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Fortinet_logo.svg" alt="Fortinet" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Pfsense_logo.png" alt="pfSense" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Postman_%28software%29.png" alt="Postman" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
-</p>
-
-
-## Tools and Technologies
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vmware/vmware-original.svg" alt="VMware" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/esxi.png" alt="ESXi" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/50/000000/veeam.png" alt="Veeam" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/50/000000/fortinet.png" alt="Fortinet" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/50/000000/pfsense.png" alt="pfSense" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
-</p>
+  </p>
 
 
 ## 🌐 Socials
