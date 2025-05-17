@@ -50,7 +50,6 @@ Let's code, and change the world! 💻💡
 ## 🛠 Tech Stack
 
 
-SQL Server developer 
 
 
 Network & Infrastucture:
