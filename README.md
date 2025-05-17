@@ -29,7 +29,6 @@ Let's code, and change the world! 💻💡
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ibm.svg" alt="IBM" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vmware.svg" alt="IBM" width="40" height="40"/>
   
 </p>
 
