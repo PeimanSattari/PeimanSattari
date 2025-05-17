@@ -25,12 +25,17 @@ Let's code, and change the world! 💻💡
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/veeam.svg" alt="Veeam" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg" alt="Windows Server" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fortinet.svg" alt="Fortinet" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pfsense.svg" alt="pfSense" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ibm.svg" alt="IBM" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hp.svg" alt="HP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/zabbix.svg" alt="Zabbix" width="40" height="40"/>
+
+  <!-- آیکون‌های جایگزین برای Mikrotik و Kerio -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mikrotik-logo.png" alt="Mikrotik" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Kerio_Logo.png" alt="Kerio" width="40" height="40"/>
 </p>
+
 
 
 
