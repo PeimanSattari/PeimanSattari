@@ -20,8 +20,6 @@ Let's code, and change the world! 💻💡
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vmware.svg" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cisco.svg" alt="Cisco" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/veeam.svg" alt="Veeam" width="40" height="40"/>
